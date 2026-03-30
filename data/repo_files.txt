@@ -1,0 +1,8 @@
+.gitattributes
+README.md
+debate_fallacy_model/config.json
+debate_fallacy_model/model.safetensors
+debate_fallacy_model/special_tokens_map.json
+debate_fallacy_model/tokenizer.json
+debate_fallacy_model/tokenizer_config.json
+debate_fallacy_model/vocab.txt

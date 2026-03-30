@@ -1,0 +1,1 @@
+{0: 'ad_hominem', 1: 'appeal_to_authority', 2: 'bandwagon', 3: 'false_dilemma', 4: 'hasty_generalization', 5: 'no_fallacy', 6: 'slippery_slope', 7: 'strawman'}
